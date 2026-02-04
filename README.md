@@ -13,3 +13,5 @@ Mini CV Selector is a small Java tool to screen resumes based on skills, experie
 - Java
 - YAML input for candidate resumes
 - Simple rule-based scoring system
+
+realised by Otmane El Mouki and Nedim Trad, project uploaded from the University Gitlab. 
